@@ -10,8 +10,8 @@ import (
   "github.com/bmizerany/pat"
   "github.com/garyburd/redigo/redis"
   "flag"
-  "github.com/aforward/webl/api"
-  "code.google.com/p/go.net/websocket"
+  "github.com/swiftdiaries/webl/api"
+  "golang.org/x/net/websocket"
 )
 
 //-----------
